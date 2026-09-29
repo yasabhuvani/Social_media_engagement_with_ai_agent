@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Engagement Agent",
+  "description": "AI agent that continuously learns a brand's unique audience, retains historical memory, and generates personalized recommendations backed by real performance data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
